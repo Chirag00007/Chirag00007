@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Springboot , Reactjs , Nodejs and Microservices**
+- 🌱 I’m currently learning **Springboot , Reactjs , ExpressJs and Microservices**
 
 - 💬 Ask me about **Springboot , Reactjs etc**
 
